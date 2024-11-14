@@ -1,0 +1,11 @@
+[package]
+name = "src"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+os_info = "3.8.2"
+
+[[bin]]
+name = "src"
+path = "main.rs"
