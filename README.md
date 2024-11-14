@@ -9,7 +9,7 @@ Goals of This Project
 - Bypass all possiblbe software requirements required
 
 Supported Platforms (All Arch)
-Android
-MacOS
-Windows
-Linux
+- Android
+- MacOS
+- Windows
+- Linux
