@@ -1,5 +1,5 @@
 # dicky
-Fastest Offline Data and Information Transfer Library so you can access things whenever you want, even with spotty connection.
+Fastest way to move your data between devices.
 
 Goals of This Project
 - Achieve the fastest possible data transfer between two devices, not connected over the internet
